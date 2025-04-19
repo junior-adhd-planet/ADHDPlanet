@@ -9,6 +9,6 @@ asset_type: main_visual_asset
 layer_order: visual  
 interaction_type: none  
 output_device: all  
-動作描述: 作為主視覺入口使用，不具互動性
+動作描述: 作為星圖館主視覺入口使用，不具互動性
 
 ![StarMapVisual](../images/StarMapVisual.png)
